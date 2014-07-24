@@ -1,0 +1,85 @@
+	BODY {
+		background-color: #FD6;
+		background-color: #EEE;
+		color: #222;
+	}
+	A:hover {
+		background-color: #FD6;
+	}
+	#header {
+		border-bottom: 2pt black solid;
+		margin-bottom: 2em;
+	}
+	#header H1 {
+		margin-bottom: 0;
+		text-align: center;
+	}
+
+	#info {
+		text-align: center;
+	}
+	#text {
+		position: absolute;
+		top: 280px;
+	}
+	#valid, #footer {
+
+	}
+
+	TABLE {
+		border-spacing: 0;
+		text-align: left;
+	}
+	TH {
+		font-size: 1.2em;
+		font-weight: bold;
+
+		text-align: left;
+	}
+	TD {
+		vertical-align: top;
+	}
+	.schools, .schools A {
+		color: #600;
+	}
+	
+	.govt, .govt A {
+		color: #C60;
+	}
+
+	.news, .news A {
+		color: #600;
+	}
+
+	.religion, .religion A {
+		color: #363;
+		color: #600;
+	}
+
+	.community, .community A {
+		color: #339;
+	}
+
+
+	UL {
+		font-family: Arial, Helvetica, sans-serif;
+		font-size: 0.9em;
+
+		margin: 0;
+		padding: 0;
+
+		margin-top:    1em;
+		margin-left:   2em;
+		margin-right:  3ex;
+		margin-bottom: 1em;
+	}
+	LI {
+		margin-top: 0.2ex;
+	}
+
+	#footer {
+		color: black;
+		font-family: Arial, Helvetica, sans-serif;
+		font-size: 0.7em;
+		text-align: center;
+	}
